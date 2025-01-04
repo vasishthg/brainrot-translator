@@ -37,8 +37,8 @@ for i in range(len(brainrot)):
         brainrot[i] = "freshman"
     elif brainrot[i] == "rizzler":
         brainrot[i] = "charming guy"
-    # elif brainrot[i] == "gyatt":
-    #     brainrot[i] = "ass"
+    elif brainrot[i] == "gyatt":
+        brainrot[i] = "ass"
     elif brainrot[i] == "ahh":
         brainrot[i] = "ass"
     elif brainrot[i] == "edging":
